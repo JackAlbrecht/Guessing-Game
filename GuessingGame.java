@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Guess {
-   public static final int MAX_NUMBER = 100;  // I GOT THIS FROM INTERNET RESEARCH FOR EXTRA CREDIT! - change this to change the maximum number
+   public static final int MAX_NUMBER = 100;
    
    public static void main(String[] args) {
       Scanner in = new Scanner(System.in);
